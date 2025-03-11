@@ -7,22 +7,19 @@
 main:
   - title: "CV"
     url: /cv/
-    
-  - title: "研究经历"
-    url: /publications/
+
+  - title: "工作履历"
+    url: /talks/       
     
   - title: "实习经历"
     url: /teaching/ 
-    
-  - title: "工作履历"
-    url: /talks/       
+
+  - title: "研究经历"
+  url: /publications/
 
   - title: "联系方式"
     url: /portfolio/
 
-  - title: "Blog Posts"
+  - title: "博客"
     url: /year-archive/
-    
-  - title: "Guide"
-    url: /markdown/
     
