@@ -1,6 +1,6 @@
 ---
 title: "实习经历"
-collection: teaching
+collection: Try and build
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "英特尔"
