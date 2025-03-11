@@ -11,13 +11,13 @@ main:
   - title: "研究经历"
     url: /publications/
     
-  - title: "Teaching"
+  - title: "实习经历"
     url: /teaching/ 
     
   - title: "工作履历"
     url: /talks/       
 
-  - title: "个人照片"
+  - title: "联系方式"
     url: /portfolio/
 
   - title: "Blog Posts"
