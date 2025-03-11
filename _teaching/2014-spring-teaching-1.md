@@ -10,6 +10,8 @@ location: "上海, 中国"
 
 实习期间参与Spark性能优化项目，让我深入了解了分布式计算的挑战，团队对‘Fearless Innovation’文化的践行也激励我勇于试错
 
+[实习成果](../images/white.mp4)
+
 Heading 1
 ======
 
