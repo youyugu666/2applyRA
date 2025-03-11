@@ -8,7 +8,8 @@ date: 2019.02-2019.03
 location: "上海, 中国"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[实习成果](../images/white.mp4)
+3D打印了一个小机器人，用现成的程序搭建项目让它跑起来。
 
 Heading 1
 ======
