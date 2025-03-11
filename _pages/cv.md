@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 硕士 大数据科学 英国伦敦 伦敦女王玛丽大学, 2020-2021
-* 学士 数学 安徽合肥 合肥工业大学, 2015-2019
+* 学士  数学     安徽合肥  合肥工业大学,    2015-2019
 
 Work experience
 ======
@@ -37,11 +37,14 @@ Work experience
 
 Research experience
 ======
-* Summer 2018: A New NTRU-Type Public-Key Cryptosystem over the Binary Field.
-  * Situation
-  * task
-  * action
-  * result
+* Spring 2019: A New NTRU-Type Public-Key Cryptosystem over the Binary Field.
+  * 随着云计算和无线传感器网络的发展，智能设备在日常生活中得到了广泛应用，但智能设备的安全问题尚未得到很好的解决
+  * 本文提出了一种新的基于二进制域的NTRU型公钥密码方案，需要验证NTRU型公钥密码方案正确性，并评估加密和解密的能力和耗时。
+  * 我通过一组实验评估了方案加密和解密的能力和耗时，也收集整理了论文相关材料,并撰写了论文中方案实现部分。
+* Summer 2018: Cryptanalysis of key exchange protocol based on tensor ergodic problem.
+  * Mao、Zhang、Wu等人构建了两个密钥交换（KE）协议基于张量遍历问题（TEP）。尽管他们推测这些构造可以潜在地抵抗量子计算攻击，但对于KE协议他们没有提供严格的安全证明.
+  * 本文提出了一种使用O(n^6)算法求解TEP问题的多项式时间算法有限域中的运算。
+  * 我通过编程实现本文提出的多项式时间算法，验证本文算法能够从基于KE的加密方案的密文中直接恢复明文的正确性。
 
 Skills
 ======
