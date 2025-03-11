@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "gyy2-png.png"
   name             : "Youyu Gu(古有禹)"
   pronouns         : # example: "she/her"  
   bio              : "Queen Mary University of London"
