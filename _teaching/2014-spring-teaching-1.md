@@ -1,5 +1,5 @@
 ---
-title: "实习经历"
+title: "实习经历一"
 collection: Try and build
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
