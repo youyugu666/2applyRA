@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+你好熊老师！
 我是一名在华为云工作三年的软件开发工程师兼项目经理，我有着丰富的项目化运作交付的经验。我的研究兴趣有机器学习、强化学习、控制算法等。
-这是我的个人简历：[古有禹的简历：](https://youyugu666.github.io/2applyRA//cv/).
+这是我的个人简历：[古有禹-2025-3：](https://youyugu666.github.io/2applyRA//cv/).
 
 About me：
 ======
