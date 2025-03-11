@@ -10,9 +10,4 @@ main:
     
   - title: "研究经历"
     url: /publications/
-
-  - title: "工作履历"
-    url: /talks/       
     
-  - title: "个人照片"
-    url: /portfolio/
