@@ -15,7 +15,7 @@ main:
     url: /teaching/ 
 
   - title: "研究经历"
-  url: /publications/
+    url: /publications/
 
   - title: "联系方式"
     url: /portfolio/
