@@ -28,8 +28,8 @@ author:
   bio              : "Queen Mary University of London"
   location         : "浙江 杭州"
   employer         : "杭州华为云计算"
-  uri              : youyugu666@outlook.com
-  email            : youyugu666@outlook.com
+  uri              : # url
+  email            : "youyugu666@outlook.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : 古有禹    
+  linkedin         : # 古有禹    
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
