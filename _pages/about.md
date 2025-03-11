@@ -11,4 +11,4 @@ redirect_from:
 我的优势：
 ======
 You can find my CV here: [Youyu Gu's Curriculum Vitae](https://youyugu666.github.io/2applyRA//cv/).
-[Email](youyugu666@outlook.com) / [Github](https://github.com/youyugu666) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/weixin_41945385?type=blog)
+[Email](portfolio) / [Github](https://github.com/youyugu666) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/weixin_41945385?type=blog)
