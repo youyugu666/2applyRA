@@ -40,7 +40,7 @@ Research experience
 * Spring 2019: A New NTRU-Type Public-Key Cryptosystem over the Binary Field.
   * 随着云计算和无线传感器网络的发展，智能设备在日常生活中得到了广泛应用，但智能设备的安全问题尚未得到很好的解决
   * 本文提出了一种新的基于二进制域的NTRU型公钥密码方案，需要验证NTRU型公钥密码方案正确性，并评估加密和解密的能力和耗时。
-  * 我通过一组实验评估了方案加密和解密的能力和耗时，也收集整理了论文相关材料,并撰写了论文中方案实现部分。
+  * 我通过一组实验验证了评估方案加密和解密的能力和耗时，也收集整理了论文相关材料,并撰写了论文中方案实现部分。
 * Summer 2018: Cryptanalysis of key exchange protocol based on tensor ergodic problem.
   * Mao、Zhang、Wu等人构建了两个密钥交换（KE）协议基于张量遍历问题（TEP）。尽管他们推测这些构造可以潜在地抵抗量子计算攻击，但对于KE协议他们没有提供严格的安全证明.
   * 本文提出了一种使用O(n^6)算法求解TEP问题的多项式时间算法有限域中的运算。
@@ -48,12 +48,17 @@ Research experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
+* 精通Java核心，有良好的算法和编码能力，熟悉C、C++、Python、Shell等语言；面向对象编程，已构建扎实的知识体系，能灵活运用所学的新知识；
+深入了解Redis原理及应用；
+* 熟悉掌握网络问题定位方法，思路清晰，能快速识别问题；JavaEE技术栈、JDBC、Mybatis、SpringMVC、Spring、Spring Boot、Spring Cloud技术栈；
+多进程、多线程并发解决方案及编程思想；操作栈、队列、链表、数组、二叉树、递归等数据结构；使用Eclipse、IDEA、Git、Maven项目管理和项目构建工具；
+应用服务器软件Tomcat的容器配置与部署；MySql调优及常见引擎模型和核心技术；常见IO模型；大数据框架Hadoop、Spark；
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* 了解微服务设计方案；Kafka、Zookeeper；计算机工作原理、操作系统原理、计算机网络原理；并熟练使用Linux操作系统，能根据命令一步步排查问题；
+常见垃圾回收算法、垃圾收集器及JVM调优；常见机器学习算法；JavaScript、HTML5、CSS；分布式文件系统HDFS原理。
+
 
 Publications
 ======
@@ -64,4 +69,4 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 当前管理10人+的小团队，负责软件开发、测试、版本发布上线、硬装网调、软调引流、上线运维的全功能团队。
