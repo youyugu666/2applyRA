@@ -37,14 +37,11 @@ Work experience
 
 Research experience
 ======
-* Spring 2019: A New NTRU-Type Public-Key Cryptosystem over the Binary Field.
-  * 随着云计算和无线传感器网络的发展，智能设备在日常生活中得到了广泛应用，但智能设备的安全问题尚未得到很好的解决
-  * 本文提出了一种新的基于二进制域的NTRU型公钥密码方案，需要验证NTRU型公钥密码方案正确性，并评估加密和解密的能力和耗时。
-  * 我通过一组实验验证了评估方案加密和解密的能力和耗时，也收集整理了论文相关材料,并撰写了论文中方案实现部分。
-* Summer 2018: Cryptanalysis of key exchange protocol based on tensor ergodic problem.
-  * Mao、Zhang、Wu等人构建了两个密钥交换（KE）协议基于张量遍历问题（TEP）。尽管他们推测这些构造可以潜在地抵抗量子计算攻击，但对于KE协议他们没有提供严格的安全证明.
-  * 本文提出了一种使用O(n^6)算法求解TEP问题的多项式时间算法有限域中的运算。
-  * 我通过编程实现本文提出的多项式时间算法，验证本文算法能够从基于KE的加密方案的密文中直接恢复明文的正确性。
+* Summer 2021: 基于K-means的用户行为分析
+  * 本系统对电信移动公司收集的大量用户行为原始数据进行预处理、挖掘，基于K-means算法分析用户行为，最后使用可视化技术将结果展示给决策者参考。
+  * 技术选型、环境搭建与集群部署、数据库设计、MySQL优化、测试、对数据进行预处理，数据存储与管理，数据分析，K-means算法改进，和数据可视化等。
+* Summer 2019: 基于java开发网上求职招聘系统
+  * 使用JavaEE技术栈、JDBC、Mybatis、SpringMVC、Spring、Spring Boot、Spring Cloud等技术栈搭建招聘求职系统，达成求职者、招聘者、管理员三套系统高复用的设计模式，最终获得优秀毕业设计。
 
 Skills
 ======
