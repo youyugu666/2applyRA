@@ -1,5 +1,5 @@
 ---
-title: "实习经历二"
+title: "第二次实习"
 collection: Try and build
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
@@ -10,13 +10,4 @@ location: "上海, 中国"
 
 "实习成果<br/><img src='../images/white.mp4'>"
 
-3D打印了一个小机器人，用现成的程序搭建项目让它跑起来。
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+3D打印了一个小机器人，用现成的程序搭建项目让它跑起来。埋下了对机械控制的兴趣种子，提升了我的动手能力。
