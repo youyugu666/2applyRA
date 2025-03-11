@@ -48,14 +48,13 @@ Research experience
 
 Skills
 ======
+* 熟练掌握各种项目管理方法，遵循Guide（方向）、Enable（方法）、HouseKeeper（秩序）相互结合的管理方式，对目标进行拆分，对人员进行精细化工作安排。
 * 精通Java核心，有良好的算法和编码能力，熟悉C、C++、Python、Shell等语言；面向对象编程，已构建扎实的知识体系，能灵活运用所学的新知识；
 深入了解Redis原理及应用；
-* 熟悉掌握网络问题定位方法，思路清晰，能快速识别问题；JavaEE技术栈、JDBC、Mybatis、SpringMVC、Spring、Spring Boot、Spring Cloud技术栈；
-多进程、多线程并发解决方案及编程思想；操作栈、队列、链表、数组、二叉树、递归等数据结构；使用Eclipse、IDEA、Git、Maven项目管理和项目构建工具；
-应用服务器软件Tomcat的容器配置与部署；MySql调优及常见引擎模型和核心技术；常见IO模型；大数据框架Hadoop、Spark；
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* 熟悉掌握网络问题定位方法，思路清晰，能快速识别问题；
+  * 多进程、多线程并发解决方案及编程思想；JavaEE技术栈、JDBC、Mybatis、SpringMVC、Spring、Spring Boot、Spring Cloud技术栈；使用Eclipse、IDEA、Git、Maven项目管理和项目构建工具；
+  * 操作栈、队列、链表、数组、二叉树、递归等数据结构；
+  * 应用服务器软件Tomcat的容器配置与部署；MySql调优及常见引擎模型和核心技术；常见IO模型；大数据框架Hadoop、Spark；
 * 了解微服务设计方案；Kafka、Zookeeper；计算机工作原理、操作系统原理、计算机网络原理；并熟练使用Linux操作系统，能根据命令一步步排查问题；
 常见垃圾回收算法、垃圾收集器及JVM调优；常见机器学习算法；JavaScript、HTML5、CSS；分布式文件系统HDFS原理。
 
