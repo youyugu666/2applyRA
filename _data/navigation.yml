@@ -13,9 +13,6 @@ main:
     
   - title: "个人照片"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
