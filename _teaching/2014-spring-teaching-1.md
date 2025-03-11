@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "实习经历"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "英特尔"
+date: 2017.6-2017.8
+location: "上海, 中国"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+实习期间参与Spark性能优化项目，让我深入了解了分布式计算的挑战，团队对‘Fearless Innovation’文化的践行也激励我勇于试错
 
 Heading 1
 ======
