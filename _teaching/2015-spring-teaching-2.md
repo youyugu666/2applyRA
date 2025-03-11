@@ -9,6 +9,7 @@ location: "上海, 中国"
 ---
 
 "实习成果<br/><img src='../images/white.mp4'>"
+
 3D打印了一个小机器人，用现成的程序搭建项目让它跑起来。
 
 Heading 1
