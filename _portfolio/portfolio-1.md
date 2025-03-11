@@ -1,6 +1,6 @@
 ---
 title: "wechat"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/wechat.png'>"
+excerpt: "这是我的微信二维码<br/><img src='../images/wechat.png'>"
 collection: portfolio
 ---
 
